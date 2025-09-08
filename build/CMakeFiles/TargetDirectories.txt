@@ -1,0 +1,3 @@
+C:/Users/nizbr/coding projects/vscode/VoxelEngine/build/CMakeFiles/VoxelEngine.dir
+C:/Users/nizbr/coding projects/vscode/VoxelEngine/build/CMakeFiles/edit_cache.dir
+C:/Users/nizbr/coding projects/vscode/VoxelEngine/build/CMakeFiles/rebuild_cache.dir
