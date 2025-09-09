@@ -8,8 +8,6 @@ add_executable(${PROJECT_NAME}
     src/stb.cpp
 )
 
-
-
 add_subdirectory(lib/glfw)
 
 target_include_directories(${PROJECT_NAME} 
